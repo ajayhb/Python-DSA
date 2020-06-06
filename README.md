@@ -11,3 +11,4 @@ c) Few problems on Stacks
 
 d) Problems on Recursion.
 
+e) Problems on Dynamic programming.
